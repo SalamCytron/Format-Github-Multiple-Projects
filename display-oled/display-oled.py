@@ -15,6 +15,8 @@ EMAIL    : support@cytron.io
 REFERENCE:
 Code adapted from 2023 Liz Clark for Adafruit Industries:
 https://learn.adafruit.com/pico-w-http-server-with-circuitpython/code-the-pico-w-http-server
+Want to know more detail visit our tutorial:
+https://cytron.io/tutorial/displaying-temperature-and-humidity-on-oled-using-maker-pi-pico
 
 MORE INFO:
 https://cytron.io/p-robo-pico-simplifying-robotics-with-raspberry-pi-pico
