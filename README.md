@@ -24,17 +24,15 @@ Inside the python file display_oled.py, edit the pin if you are using different 
 ```python
 i2c = io.I2C(board.GP1, board.GP0)
 ```
-## Tutorials  
+## Resources 
 If you want a guidance on how to use the code for [Cytron Product Name], here some tutorials you can follow:
 * [Real-Time Multitasking on Maker Pi Pico Using pyRTOS](https://cytron.io/tutorial/real-time-multitasking-on-maker-pi-pico-using-pyrtos)  
 * [Building Line Following Robot Using Maker Pi Pico, Maker Drive and Maker Line](https://cytron.io/tutorial/building-line-following-robot-using-maker-pi-pico-maker-drive-and-maker-line)  
 * [Play MP3 File on Maker Pi Pico Using Circuitpython](https://cytron.io/tutorial/play-mp3-file-on-maker-pi-pico-using-circuitpython)  
 * [Read and Display Environment Sensor Data Using Raspberry Pi Pico and Circuitpython](https://cytron.io/tutorial/read-and-display-environment-sensor-data-using-raspberry-pi-pico-and-circuitpython)  
-
-
-## Documentation  
-For more information on the [Cytron Product Name], check out the datasheet here:
-* [Cytron Product Datasheet](https://docs.google.com/document/d/1JoHsZk5IipQPCLXWbZYpDKjGlnkyACOJ1taUrKVsRg8/edit)  
+  
+For more information on the [Cytron Product Name], check out other resources here:
+* [Cytron Product Resources](https://my.cytron.io/p-robo-pico-simplifying-robotics-with-raspberry-pi-pico/#tab-resource) 
 
 ## Support
 If you need further assistance, we welcome you to our [technical forum](http://forum.cytron.io) or you can contact us through email support@cytron.io where our team will be happy to assist you. 
